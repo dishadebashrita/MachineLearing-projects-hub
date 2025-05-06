@@ -94,5 +94,4 @@ To predict whether an employee is likely to seek mental health **treatment** bas
 
 ---
 
-## 📎 Repository Structure
 
